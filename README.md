@@ -46,6 +46,7 @@ This dashboard helps reduce the time needed for sales analysis from hours to min
  and empowers managers to quickly respond to market changes, ultimately driving increased revenue and better resource allocation.
 
 ## Dashboard
+This dashboard visualizes monthly sales data from January to December. It highlights the best- and worst-selling pizzas based on quantity sold, total revenue, and number of orders. The visuals offer a clear comparison across different time periods and product performance, helping identify both top performers and areas needing attention.
 ![Dashboard Preview](https://github.com/Maahii07/Pizza-Sales-Dashboard/blob/main/worst-best%20pizza%20seller%20dashboard.png)
 
 ![Dashboard Preview](https://github.com/Maahii07/Pizza-Sales-Dashboard/blob/main/Home%20page%20dashboard.png)
