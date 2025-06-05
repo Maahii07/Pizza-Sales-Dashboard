@@ -44,3 +44,5 @@ This dashboard helps reduce the time needed for sales analysis from hours to min
 
 ## Dashboard
 ![Dashboard Preview](https://github.com/Maahii07/Pizza-Sales-Dashboard/blob/main/worst-best%20pizza%20seller%20dashboard.png)
+
+![Dashboard Preview](https://github.com/Maahii07/Pizza-Sales-Dashboard/blob/main/Home%20page%20dashboard.png)
