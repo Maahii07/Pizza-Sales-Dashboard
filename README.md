@@ -53,3 +53,6 @@ This dashboard visualizes monthly sales data from January to December. It highli
 This dashboard includes a daily trend chart for orders, a monthly line chart, and a funnel chart showing pizzas sold by category and pie charts to show % of pizza sold by category and size. Designed to give insight into both temporal trends and product mix performance.
 
 ![Dashboard Preview](https://github.com/Maahii07/Pizza-Sales-Dashboard/blob/main/Home%20page%20dashboard.png)
+
+## ✅ Conclusion
+Building this dashboard helped me turn raw sales data into something that’s actually useful for decision-making. It brings together different views of the data — from daily trends to top-selling pizzas — and makes it easy to spot what’s working and what’s not. Whether it’s tracking performance month to month or understanding which pizza categories are driving sales, this project was a great way to apply SQL, Power BI, and data visualization skills in a real-world scenario.
