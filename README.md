@@ -41,3 +41,6 @@ Top Products: Highlights best-selling products to focus marketing and sales effo
 **Business Impact:**
 This dashboard helps reduce the time needed for sales analysis from hours to minutes, improves data accuracy,
  and empowers managers to quickly respond to market changes, ultimately driving increased revenue and better resource allocation.
+
+## Dashboard
+https://github.com/Maahii07/Pizza-Sales-Dashboard/blob/main/worst-best%20pizza%20seller%20dashboard.png
