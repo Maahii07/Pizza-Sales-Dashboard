@@ -1,7 +1,11 @@
 # Pizza-Sales-Performance-Dashboard
 This is a Power BI dashboard built to track and visualize sales performance using a dataset of around 1,000 records. It breaks down key metrics like sales, profit, quantity sold, and discounts by region, customer segment, and product category.The dashboard is fully interactive, with filters and slicers that let users explore the data from different angles. It’s useful for spotting trends, comparing performance across regions, and highlighting top-selling products.
 
-# Dataset Source
+## 📂 Data Source
+
+- The dataset is based on a sample **sales data Excel file** 
+- Includes fields like **Order Date, Region, Product Category, Segment, Sales, Profit, Quantity**   
+- SQL queries were used to extract and prepare data before importing into Power BI.
 
 # 🛠️ Key Technologies Used
 **SQL** – For querying and preparing data before importing into Power BI
@@ -33,7 +37,6 @@ KPIs: Total Sales, Profit, Quantity Sold, and Discount summarized at the top for
 
 Regional Sales Map & Bar Charts: Visualize sales distribution and compare performance across regions and product categories.
 
-## Dashboard
 Trend Line: Shows monthly sales trends to identify seasonality and growth patterns.
 
 Top Products: Highlights best-selling products to focus marketing and sales efforts.
